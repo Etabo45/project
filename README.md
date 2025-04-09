@@ -39,4 +39,10 @@ The screenshot.
 ![Screenshot 2025-04-09 145052](https://github.com/user-attachments/assets/b69a5196-3383-4da6-bac7-6d7db0ea2fe2)
 
 
-Contributors. A. Emmanuel Mateso. B. Merfi Yussuf Hassan. C. Penninah Etabo. D. Abdi Mohamud Dakane. E. Austin Odhiambo. F. Abdimajid Omar.
+Contributors. 
+A. Emmanuel Mateso. 
+B. Merfi Yussuf Hassan. 
+C. Penninah Etabo. D.
+Abdi Mohamud Dakane. 
+E. Austin Odhiambo. 
+F. Abdimajid Omar.
